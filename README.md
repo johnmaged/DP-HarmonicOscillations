@@ -1,4 +1,5 @@
-# Data Products Project Part1 - My Shiny App
+# Harmonic Oscillations
+###Coursera Data Products Project
 
-###To view my Shiny App, please visit 
+#####To view my Shiny App, please visit 
 https://johnmaged.shinyapps.io/DPShiny/
